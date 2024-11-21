@@ -1,4 +1,3 @@
-![Screenshot (53)](https://github.com/user-attachments/assets/86b09802-757c-43e7-9f55-46599af5835b)# Blinkit-Sales-Analysis
 
 The chart presents a dashboard overview of **Blinkit's sales data** across various dimensions:
 
