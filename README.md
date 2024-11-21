@@ -33,3 +33,5 @@ The chart presents a dashboard overview of **Blinkit's sales data** across vario
    - Outlets established in **2018** generated the highest sales ($204.52k), with a steady growth trend over years.
 
 The dashboard provides a clear and comprehensive breakdown of sales, highlighting areas for targeted marketing or resource allocation.
+
+![Screenshot (51)](https://github.com/user-attachments/assets/c996419c-530c-4b7f-a77a-68a314de1893)
