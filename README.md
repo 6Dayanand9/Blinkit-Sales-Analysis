@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis
+![Screenshot (53)](https://github.com/user-attachments/assets/86b09802-757c-43e7-9f55-46599af5835b)# Blinkit-Sales-Analysis
 
 The chart presents a dashboard overview of **Blinkit's sales data** across various dimensions:
 
@@ -35,3 +35,13 @@ The chart presents a dashboard overview of **Blinkit's sales data** across vario
 The dashboard provides a clear and comprehensive breakdown of sales, highlighting areas for targeted marketing or resource allocation.
 
 ![Screenshot (51)](https://github.com/user-attachments/assets/c996419c-530c-4b7f-a77a-68a314de1893)
+
+### Total Sales with Respect to Tier 1
+
+![Screenshot (52)](https://github.com/user-attachments/assets/c303423f-cdef-4966-b544-29969f812d04)
+
+### Total Sales With Respect to Tier 3
+
+![Screenshot (53)](https://github.com/user-attachments/assets/20bbe46f-7c14-4f9d-bca1-e5f6cf7cf814)
+
+
